@@ -1,5 +1,5 @@
 # sql-analysis
-Learning SQL for Data Analysis using sample datasets.
+SQL queries for analyzing sales data using basic and intermediate SQL techniques.
 
 📊 Dataset
 
